@@ -79,12 +79,12 @@ npm run build
 
 
 ## 🧩 Coming Soon
-# ✅ Add/remove custom categories dynamically
+✅ Add/remove custom categories dynamically
 
-# 🧠 Budget history and analytics
+🧠 Budget history and analytics
 
-# ☁️ LocalStorage support for persistent data
+☁️ LocalStorage support for persistent data
 
-# 📱 Responsive mobile-first design
+📱 Responsive mobile-first design
 
-# 🔗 Expense export to CSV
+🔗 Expense export to CSV
