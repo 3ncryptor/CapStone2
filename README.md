@@ -15,29 +15,6 @@ FinBuddy is a sleek, modern, and beginner-friendly budgeting and expense plannin
 
 ---
 
-## 📂 Project Structure
-FinBuddy/
-├── public/
-│ └── favicon.ico
-├── src/
-│ ├── components/
-│ │ ├── SalaryInput.jsx
-│ │ ├── RecommendedSplit.jsx
-│ │ ├── BudgetAllocator.jsx
-│ │ └── CategoryBreakdown.jsx
-│ ├── pages/
-│ │ └── BudgetPage.jsx
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── styles/
-│ └── styles.css
-├── index.html
-├── package.json
-└── README.md
-
-
-
----
 
 ## 🧠 How It Works
 
