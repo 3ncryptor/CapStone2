@@ -20,8 +20,8 @@ const RecommendedSplit = ({ salary }) => {
     <div style={{ marginBottom: '2rem' }}>
       <h3>Recommended Split (50-30-20 Rule)</h3>
       <ul>
-        <li>Needs (Essentials): ₹{recommendation.needs}</li>
-        <li>Wants (Lifestyle): ₹{recommendation.wants}</li>
+        <li>Needs: ₹{recommendation.needs}</li>
+        <li>Wants: ₹{recommendation.wants}</li>
         <li>Savings: ₹{recommendation.savings}</li>
       </ul>
     </div>

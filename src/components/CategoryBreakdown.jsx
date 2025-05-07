@@ -21,7 +21,7 @@ const CategoryBreakdown = ({ categorySplit, setCategorySplit }) => {
         />
       </div>
       <div>
-        <label>Wants (Entertainment, etc): </label>
+        <label>Wants: </label>
         <input
           type="number"
           value={categorySplit.wants || ''}
